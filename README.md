@@ -23,7 +23,7 @@ O projeto "Xadrez das IAs" é uma plataforma que permite:
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/SEU_USUARIO/xadrez-ia.git
+   git clone https://github.com/CassDs/xadrez-ia.git
    cd xadrez-ia
    ```
 
@@ -132,12 +132,6 @@ O projeto "Xadrez das IAs" é uma plataforma que permite:
 ## Contribuindo
 
 Contribuições são bem-vindas! Por favor, sinta-se à vontade para enviar pull requests ou abrir issues.
-
-## Licença
-
-Este projeto está licenciado sob os termos da Licença MIT.
-
-## Como contribuir com o projeto
 
 1. Faça um fork do projeto
 2. Crie uma branch para sua feature (`git checkout -b feature/nova-funcionalidade`)
